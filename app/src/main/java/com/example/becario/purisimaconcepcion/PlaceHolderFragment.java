@@ -1,12 +1,14 @@
-/**
+package com.example.becario.purisimaconcepcion; /**
  * Created by Becario on 28/01/2016.
  */
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
+//import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.app.Fragment;
+import android.app.FragmentManager;
 
 /**
  * Fragmento para el contenido principal
